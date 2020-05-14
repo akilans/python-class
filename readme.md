@@ -72,4 +72,5 @@
 
   * Day 2
     * Web Scraping
+    * Create resources in AWS [S3 bucket]
     * Data visualization
