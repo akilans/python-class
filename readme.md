@@ -41,4 +41,35 @@
     * Create file
     * Read file
     * Delete file
-    * File creation application 
+    * File creation application
+
+### Week 3
+
+  * Day 1
+    * python module
+    * In-built modules, 3rd party modules
+    * function
+    * create module
+    * pip 
+    * Install 3rd party module
+    * request package
+    * Consume API by python
+
+  * Day 2
+    * Object oriented
+    * Class
+    * Properties
+    * methods
+    * Objects
+    * Create python app with oops
+
+### Week 4
+
+  * Day 1
+    * Real world application
+    * Consume API - Azure DevOps, Slack using python
+    * Sending Email from Python Script
+
+  * Day 2
+    * Web Scraping
+    * Data visualization
