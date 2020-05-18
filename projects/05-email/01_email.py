@@ -4,7 +4,7 @@ from email.message import EmailMessage
 import imghdr
 
 msg = EmailMessage()
-msg["From"] = "24/7 - Monitoring"
+msg["From"] = "cpu.memory.disk@gmail.com"
 msg["to"] = "akil.dove@gmail.com"
 msg["Subject"] = "Test Email"
 msg.set_content("This is test email from Python. Image attached")

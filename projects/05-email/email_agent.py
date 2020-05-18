@@ -6,14 +6,14 @@ import imghdr
 def send_mail(error_msg):
 
     msg = EmailMessage()
-    msg["From"] = "24/7 - Monitoring"
-    msg["to"] = "akil.dove@gmail.com"
-    msg["Subject"] = "Critical Error!!!"
+    msg["From"] = "cpu.memory.disk@gmail.com"
+    msg["to"] = "akilan.devops@gmail.com"
+    msg["Subject"] = "CPU/Memory/Disk Alert!!!"
     msg.add_alternative("""\n
     <html>
     <head></head>
     <body>
-    <h1>"""+error_msg+"""</h1>
+    <div>"""+error_msg+"""</div>
     </body>
     </html>
     """,subtype="html")
