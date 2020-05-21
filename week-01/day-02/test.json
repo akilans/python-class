@@ -1,0 +1,11 @@
+{
+    "Srinath": {
+        "emp_name": "Srinath",
+        "emp_age": "32",
+        "emp_frinds": [
+            "Srinath",
+            "Durga",
+            "Gopal"
+        ]
+    }
+}

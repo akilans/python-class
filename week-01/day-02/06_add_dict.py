@@ -11,3 +11,4 @@ employees[name] = {
 }
 
 print(employees)
+print(employees[name])
