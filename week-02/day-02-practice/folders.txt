@@ -1,0 +1,6 @@
+docs
+images
+videos
+music
+others
+temp
