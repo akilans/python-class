@@ -1,5 +1,8 @@
 import requests
 import json
+import os
+
+token = os.getenv("GITHUB_TOKEN")
 '''
 response = requests.get("https://jsonplaceholder.typicode.com/posts")
 # print(dir(response))
@@ -7,6 +10,7 @@ response = requests.get("https://jsonplaceholder.typicode.com/posts")
 print(response.text)
 print(response.status_code)
 print(response.ok)
+'''
 '''
 data_to_send = {
     "title": "foo",
@@ -26,3 +30,15 @@ response = requests.post("https://jsonplaceholder.typicode.com/posts",data=json.
 data = response.json()
 
 print(data["id"])
+
+'''
+github_api_url = "https://api.github.com/user/repos"
+
+header_info = {
+    "Authorization": "token "+token
+}
+
+response = requests.get(github_api_url,headers=header_info)
+
+
+print(response.text)
