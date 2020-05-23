@@ -46,10 +46,11 @@
 ### Week 3
 
   * Day 1
-    * python module
-    * In-built modules, 3rd party modules
     * function
+    * python module
+    * In-built modules
     * create module
+    * packages
     * pip 
     * Install 3rd party module
     * request package
@@ -66,11 +67,11 @@
 ### Week 4
 
   * Day 1
-    * Real world application
-    * Consume API - Azure DevOps, Slack using python
     * Sending Email from Python Script
+    * Infrastructure Monitoring and Alerting
+    * Website Monitoring
 
   * Day 2
-    * Web Scraping
+    * Organize Folder
     * Create resources in AWS [S3 bucket]
     * Data visualization
