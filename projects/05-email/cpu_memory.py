@@ -4,7 +4,12 @@ from email_agent import send_mail
 max_cpu_usage = 30
 max_mem_usage = 30
 max_disk_usage = 10
-
+'''
+dir(psutil.virtual_memory())
+psutil.cpu_count()
+psutil.cpu_freq()
+psutil.disk_partitions()
+'''
 cpu_usage = psutil.cpu_percent(interval=3)
 memory_usage = psutil.virtual_memory()._asdict()
 disk_usage = psutil.disk_usage("/")._asdict()

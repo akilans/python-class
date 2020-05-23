@@ -57,21 +57,24 @@
     * Consume API by python
 
   * Day 2
+    * Try & Except
+    * Format string
+    * System monitoring using psutil
+    * website monitoring
+    * smtplib package
+    * Gmail account setup
+    * Website and Infra monitoring alert
+    
+### Week 4
+
+  * Day 1
+    * Organize Folder
+    * Create resources in AWS [S3 bucket]
+
+  * Day 2
     * Object oriented
     * Class
     * Properties
     * methods
     * Objects
     * Create python app with oops
-
-### Week 4
-
-  * Day 1
-    * Sending Email from Python Script
-    * Infrastructure Monitoring and Alerting
-    * Website Monitoring
-
-  * Day 2
-    * Organize Folder
-    * Create resources in AWS [S3 bucket]
-    * Data visualization
