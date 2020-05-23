@@ -1,10 +1,15 @@
+from my_package.durga_pkg.durga import hello_durga # Import only function and variable
+from my_package.akilan import hello_akilan
+print(hello_durga())
+print(hello_akilan())
+
 '''
-from my_package import durga_pkg
-print(durga_pkg.durga.hello_durga())
-'''
-import my_package
+import my_package.akilan
+import my_package.durga_pkg.durga
+
 greeting_akilan = my_package.akilan.hello_akilan()
 print(greeting_akilan)
 
 greeting_durga = my_package.durga_pkg.durga.hello_durga()
 print(greeting_durga)
+'''
