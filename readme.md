@@ -68,8 +68,10 @@
 ### Week 4
 
   * Day 1
-    * Organize Folder
+    * Web Scrapping Using beautifulsoup, requests, lxml
     * Create resources in AWS [S3 bucket]
+    * Capture Arguments in Python script
+    * Azure DevOps Account creation and execute python script
 
   * Day 2
     * Object oriented
@@ -77,4 +79,3 @@
     * Properties
     * methods
     * Objects
-    * Create python app with oops
