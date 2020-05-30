@@ -10,13 +10,13 @@ while True:
             response = requests.get(website)
             if response.status_code != 200:
                 print(website+" - Website is Down!!!")
-                send_mail(website+" - Website is Down!!!")
+                #send_mail(website+" - Website is Down!!!")
                 time.sleep(60)
             else:
                 print(website+" - Website is up!!!")
         except requests.exceptions.ConnectionError:
             print(website+" - Website down!!!")
-            send_mail(website+" - Website is Down!!!")
+            #send_mail(website+" - Website is Down!!!")
             time.sleep(60)
 
     time.sleep(10)
