@@ -1,0 +1,14 @@
+[
+    {
+        "server_ip": "1.2.3.4",
+        "user_name": "akilan",
+        "password": "admin123",
+        "cmd": "cat akilan.txt"
+    },
+    {
+        "server_ip": "1.2.3.4",
+        "user_name": "akilan",
+        "password": "admin123",
+        "cmd": "cat alex.txt"
+    }
+]
