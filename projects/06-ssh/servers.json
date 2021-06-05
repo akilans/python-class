@@ -3,12 +3,12 @@
         "server_ip": "1.2.3.4",
         "user_name": "akilan",
         "password": "admin123",
-        "cmd": "cat akilan.txt"
+        "cmd": "cat akilan.txt\n"
     },
     {
         "server_ip": "1.2.3.4",
         "user_name": "akilan",
-        "password": "admin123",
-        "cmd": "cat alex.txt"
+        "password": "Iniya#123",
+        "cmd": "cat alex.txt\n"
     }
 ]
