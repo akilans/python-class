@@ -1,0 +1,34 @@
+[
+  {
+    "Command": "\"/usr/local/bin/entr…\"",
+    "CreatedAt": "2021-10-10 17:35:42 +0530 IST",
+    "ID": "23866ab36417",
+    "Image": "gcr.io/k8s-minikube/kicbase:v0.0.27",
+    "Labels": "created_by.minikube.sigs.k8s.io=true,mode.minikube.sigs.k8s.io=minikube,name.minikube.sigs.k8s.io=minikube,role.minikube.sigs.k8s.io=",
+    "LocalVolumes": "1",
+    "Mounts": "minikube,/lib/modules",
+    "Names": "minikube",
+    "Networks": "minikube",
+    "Ports": "",
+    "RunningFor": "2 days ago",
+    "Size": "2.95MB (virtual 1.08GB)",
+    "State": "exited",
+    "Status": "Exited (130) 19 hours ago"
+  },
+  {
+    "Command": "\"/docker-entrypoint.…\"",
+    "CreatedAt": "2021-10-09 15:11:51 +0530 IST",
+    "ID": "6e542b233ddf",
+    "Image": "nginx",
+    "Labels": "maintainer=NGINX Docker Maintainers <docker-maint@nginx.com>",
+    "LocalVolumes": "0",
+    "Mounts": "",
+    "Names": "nginx",
+    "Networks": "bridge",
+    "Ports": "",
+    "RunningFor": "3 days ago",
+    "Size": "55.6MB (virtual 189MB)",
+    "State": "exited",
+    "Status": "Exited (0) 2 days ago"
+  }
+]

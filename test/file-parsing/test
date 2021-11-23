@@ -1,0 +1,65 @@
+# Host details
+
+#platform netgroups
+admin_sys       Hostname02
+user_sys        Hostname02
+
+Emulators	Emulator1 Emulator2
+Emulator1	HostEm01 HostEm02 HostEm03 HostEm04 HostEm05 \
+			AnyHostname01 RandomH001 RandomH021 RandomH011 RandomH051 \
+			RandomH101 NewHostName
+
+Emulator2	HostEm01 HostEm02 HostEm03 HostEm04 HostEm05 AnyHostname01 RandomH001 RandomH021 RandomH011 RandomH051 RandomH101 NewHostName
+
+JenkinsAgnt	AgentHost1, AgentHost2
+SomeotherMacs	SomeotherHost01, SomeotherHost02, SomeotherHost03, SomeotherHost04 \
+		SomeotherHost05, SomeotherHost06
+
+#All testing related hostnames
+Hostname	(hostname,-,) (hostname.domain.com,-,)
+HostEm01	(HostEm01,-,) (HostEm01.domain.com,-,)
+HostEm02	(HostEm02,-,) (HostEm02.domain.com,-,)
+HostEm03	(HostEm03,-,) (HostEm03.domain.com,-,)
+HostEm04	(HostEm04,-,) (HostEm04.domain.com,-,)
+HostEm05	(HostEm05,-,) (HostEm05.domain.com,-,)
+AnyHostname01 	(AnyHostname01,-,) (AnyHostname01.domain.com,-,)
+RandomH001	(RandomH001,-,) (RandomH001.domain.com,-,)
+RandomH021	(RandomH021,-,) (RandomH021.domain.com,-,)
+RandomH011	(RandomH011,-,) (RandomH011.domain.com,-,)
+RandomH051	(RandomH051,-,) (RandomH051.domain.com,-,)
+RandomH101	(RandomH101,-,) (RandomH101.domain.com,-,)
+NewHostName	(NewHostName,-,) (NewHostName.domain.com,-,)
+AgentHost1	(AgentHost1,-,) (AgentHost1.domain.com,-,)
+AgentHost2	(AgentHost2,-,) (AgentHos2.domain.com,-,)
+
+# Non Test servers
+SomeotherHost01	(SomeotherHost01,-,) (SomeotherHost01.domain.com,-,)
+SomeotherHost02	(SomeotherHost02,-,) (SomeotherHost02.domain.com,-,)
+SomeotherHost03	(SomeotherHost03,-,) (SomeotherHost03.domain.com,-,)
+SomeotherHost04	(SomeotherHost04,-,) (SomeotherHost04.domain.com,-,)
+SomeotherHost05	(SomeotherHost05,-,) (SomeotherHost05.domain.com,-,)
+SomeotherHost06	(SomeotherHost06,-,) (SomeotherHost06.domain.com,-,)
+# users
+HostEm01-users	(,user1,) (,user2,) (,user3,) (,user4,) \
+		(,user5,) (,user6,)
+HostEm02-users	  (,user1,) (,user2,) (,user7,) (,user8,) \
+		(,user9,) (,user10,) \
+HostEm03-users	HostEm01-users
+HostEm04-users	HostEm01-users
+HostEm05-users	HostEm02-users
+AnyHostname01-users	(,user101,)
+RandomH001	(,User1001,) (,User1002,) (,User1003,) (,User1004,) (,User1005,)
+RandomH021	RandomH001	
+RandomH011	RandomH001
+RandomH051	RandomH001
+RandomH101	RandomH001
+NewHostName	RandomH001
+AgentHost1-users	automationUser01
+AgentHost2-users	automationUser02
+SomeotherHost01	(,DevUser1,) (,DevUser2,) (,DevUser3,) (,DevUser4,) (,DevUser5,) \
+		(,DevUser6,) (,DevUser7,)
+SomeotherHost02	SomeotherHost01
+SomeotherHost03	SomeotherHost01
+SomeotherHost04	SomeotherHost01
+SomeotherHost05	SomeotherHost01
+SomeotherHost06	SomeotherHost01

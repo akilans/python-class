@@ -1,0 +1,2 @@
+minikube,23866ab36417,Exited (130) 19 hours ago
+nginx,6e542b233ddf,Exited (0) 2 days ago

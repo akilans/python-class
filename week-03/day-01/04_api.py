@@ -22,10 +22,10 @@ data_to_post = {
 }
 
 header_info = {
-      "Content-type": "application/json; charset=UTF-8"
+    "Content-type": "application/json; charset=UTF-8"
 }
 
-response = requests.post(post_data_url,headers=header_info,data=json.dumps(data_to_post))
+response = requests.post(
+    post_data_url, headers=header_info, data=json.dumps(data_to_post))
 
 print(response.json())
-
