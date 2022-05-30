@@ -1,4 +1,4 @@
-friends = ["Akilan","Duurga","Gopi"]
+friends = ["Akilan", "Durga", "Gopi"]
 print(friends)
 print(friends[1])
 print(len(friends))

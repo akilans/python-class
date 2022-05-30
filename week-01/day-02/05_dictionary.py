@@ -1,4 +1,4 @@
-import json # just for pretty printing
+import json  # just for pretty printing
 
 employees = {
     "durga": {
@@ -23,5 +23,5 @@ employees["gopal"] = {
     "friends": ["Durga", "Akilan", "Siva"]
 }
 
-print(employees) # Ugly output
-print(json.dumps(employees,indent=4))
+print(employees)  # Ugly output
+print(json.dumps(employees, indent=4))
