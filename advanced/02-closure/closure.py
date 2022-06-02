@@ -14,7 +14,7 @@ def greet(msg):
 
 
 akilan_greet = greet("Akilan")
-print(akilan_greet())
-
 inba_greet = greet("Inba")
+
+print(akilan_greet())
 print(inba_greet())

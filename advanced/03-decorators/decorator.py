@@ -23,5 +23,5 @@ def divide(x, y):
 div_logic = div(divide)
 print(div_logic(6, 0))
 
-
+# Method 2 using decorator symbol
 print(divide(5, 0))
