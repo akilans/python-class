@@ -1,5 +1,6 @@
 import concurrent.futures
 import time
+from itertools import repeat
 import requests
 
 image_urls = [
@@ -30,7 +31,8 @@ def download_image(url, image_path):
 # normal way to download images
 before = time.perf_counter()
 for url in image_urls:
-    download_image(url, "./normal-images/")
+    continue
+    #download_image(url, "./normal-images/")
 after = time.perf_counter()
 print(f"Normal synchronus way took {round(after - before,2)} seconds")
 
@@ -38,11 +40,16 @@ print(f"Normal synchronus way took {round(after - before,2)} seconds")
 # efficient way to download images using threadpools
 before = time.perf_counter()
 with concurrent.futures.ThreadPoolExecutor() as executor:
-    results = [executor.submit(download_image, url, "./thread-images/")
-               for url in image_urls]
+    executor.map(download_image, image_urls, repeat("./thread-images/"))
 
+    '''
+    # This also works
+        results = [executor.submit(
+        download_image, url, "./thread-images/") for url in image_urls]
     for f in concurrent.futures.as_completed(results):
         f.result()
+    '''
+
 
 after = time.perf_counter()
 print(f"Normal synchronus way took {round(after - before,2)} seconds")
