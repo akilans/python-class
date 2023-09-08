@@ -10,7 +10,7 @@ You can return the function from a function.
 
 def html_tag(tag):
     def generate_tag(text):
-        return("<{0}>{1}</{0}>".format(tag, text))
+        return (f"<{tag}>{text}</{tag}>")
     return generate_tag
 
 

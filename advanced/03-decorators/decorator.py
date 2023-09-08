@@ -19,7 +19,7 @@ def divide(x, y):
     return x / y
 
 
-# Method 1 use fisrt class func
+# Method 1 use first class func
 div_logic = div(divide)
 print(div_logic(6, 0))
 

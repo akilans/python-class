@@ -9,6 +9,10 @@ print(say("Akilan"))
 
 import my_module
 
+from my_module import say_hello
+
+print(say_hello())
+
 print(my_module.say_hello())
 greeting = my_module.say_hello_with_name("Python")
 print(greeting)
