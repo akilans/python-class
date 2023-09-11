@@ -1,0 +1,1290 @@
+[
+  {
+    "path": "/home/akilan/Downloads/test-vm-1_key.pem",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/logo.png",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/components.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/garage-server-key.pem",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/credentials.csv",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/hello.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/my-ec2-kp.pem",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/garage-server.pem",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/credentials (1).csv",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/akilan_accessKeys.csv",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/impacted-policies.csv",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/timestamp.txt",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/05_Resources/01_aws-instructor-hours-september-2021/01__resources.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/04_reading-2-6-introduction-to-amazon-vpc_VPC_Subnets.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/09_exercise-4-creating-a-vpc-and-relaunching-the-employee-directory-application-on_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/10_exercise-4-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/03_week-2-assessment-and-discussion/01_week-2-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/09_exercise-3-launch-the-employee-directory-application-on-amazon-ec2_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/10_exercise-3-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/04_week-4-assessment-readings-and-resources/01_week-4-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/05_end-of-course-assessment/01_post-course-survey_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/02_optimization/08_exercise-7-configure-high-availability-for-your-application_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/02_optimization/09_exercise-7-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/02_getting-started-with-aws-cloud/09_exercise-1-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/02_getting-started-with-aws-cloud/08_exercise-1-create-an-aws-account_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/02_getting-started-with-aws-cloud/06_reading-1-4-interacting-with-aws_getting-started.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/04_aws-identity-and-access-management/06_exercise-2-following-iam-best-practices_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/04_aws-identity-and-access-management/07_exercise-2-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/01_welcome-to-the-course/04_discussion-forums_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/01_welcome-to-the-course/02_pre-course-survey_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/06_aws-instructor-hours/01_aws-instructor-hours-september-2021_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/05_week-1-assessment-and-discussion/02_mid-course-survey_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/05_week-1-assessment-and-discussion/01_week-1-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/02_databases-on-aws/11_exercise-6-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/02_databases-on-aws/08_reading-3-9-choose-the-right-aws-database-service_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/02_databases-on-aws/07_reading-3-8-introduction-to-amazon-dynamodb_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/02_databases-on-aws/10_exercise-6-amazon-dynamodb_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/03_week-3-assessment-readings-and-resources/01_week-3-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/01_storage-on-aws/11_exercise-5-create-an-amazon-s3-bucket_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/01_storage-on-aws/12_exercise-5-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/03_week-2-assessment-and-discussion/03_post-course-survey_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/03_week-2-assessment-and-discussion/02_week-2-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/01_testing-and-automation/08_exercise-3-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/01_testing-and-automation/07_exercise-3-automate-tests_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/01_testing-and-automation/03_exercise-2-run-tests_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/01_testing-and-automation/04_exercise-2-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/02_building-pipelines/03_exercise-4-build-the-pipeline_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/02_building-pipelines/04_exercise-4-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/01_week-1/01_course-introduction/02_pre-course-survey_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/01_week-1/01_course-introduction/03_discussion-forums_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/01_week-1/03_coding-practices/04_exercise-1-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/01_week-1/03_coding-practices/03_exercise-1-source-control_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/01_week-1/04_build-and-source-branching-practices/03_week-1-reading-resources_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/01_week-1/05_week-1-assessment-and-discussion/01_week-1-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/02_week-2/02_the-operations-hub-and-aws-features-for-operations/02_aws-systems-manager_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/02_week-2/02_the-operations-hub-and-aws-features-for-operations/06_most-common-third-party-services-and-tools-for-devops-operations_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/02_week-2/03_hands-on-inside-the-students-account/03_exercise-2-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/02_week-2/03_hands-on-inside-the-students-account/02_exercise-2-troubleshoot-production-issues-with-the-help-of-aws-run-command_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/02_week-2/04_week-2-assessment-and-discussion/03_post-course-survey_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/02_week-2/04_week-2-assessment-and-discussion/02_week-2-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/02_week-2/01_what-do-you-mean-by-operate/02_the-importance-of-operation-in-ci-cd-pipelines_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/01_week-1/04_hands-on-inside-the-students-account/04_reading-week-recap_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/01_week-1/04_hands-on-inside-the-students-account/03_exercise-1-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/01_week-1/04_hands-on-inside-the-students-account/02_exercise-1-monitoring-pipeline-changes_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/01_week-1/01_welcome-to-the-course/02_pre-course-survey_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/01_week-1/01_welcome-to-the-course/03_discussion-forums_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/01_week-1/03_how-to-monitor-different-areas/02_the-importance-of-monitoring-on-ci-cd-and-aws-services-used-towards-it_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/01_week-1/05_week-1-assessment-and-discussion/01_week-1-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/02_week-2/02_week-2-assessment-and-discussion/03_post-course-survey_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/02_week-2/02_week-2-assessment-and-discussion/02_week-2-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/02_week-2/01_infrastructure-as-code/03_abstracting-iac-on-aws_what-is-cdk.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/02_week-2/01_infrastructure-as-code/08_exercise-3-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/02_week-2/01_infrastructure-as-code/07_optional-exercise-3-building-a-pipeline-with-cloudformation_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/02_introduction-to-deployment/03_deployment-strategies-for-serverless_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/01_welcome-to-the-course/03_pre-course-survey_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/01_welcome-to-the-course/04_discussion-forums_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/05_week-1-assessment-and-discussion/01_week-1-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/03_introduction-to-codedeploy/09_optional-exercise-2-deploying-updates-to-virtual-machines_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/03_introduction-to-codedeploy/07_exercise-1-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/03_introduction-to-codedeploy/10_exercise-2-discussion_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/03_introduction-to-codedeploy/06_optional-exercise-1-preparing-to-use-codedeploy_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/03_introduction-to-codedeploy/04_create-your-own-aws-account_instructions.html",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/nginx-deployment-withrolling.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/dashboard-adminuser.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/Install_grafana.txt",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/nginx-deployment.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/dashboard-role-binding.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/eksctl-create-ng.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/hpa-php-apache.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/clusterip-service.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/cluster-autoscaler-deployment-1.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/nodeport-service.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/loadbalancer-service.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/eksctl-create-cluster.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/eks_devops_flow_1_demo/IAM-roles-cloudformation.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/eks_devops_flow_1_demo/kubectl_role_policy.json",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/eks_devops_flow_1_demo/buildspec.yml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/eks_devops_flow_1_demo/hello-k8s.yml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/eks_devops_flow_1_demo/Dockerfile",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/eks_devops_flow_1_demo/main.go",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/security/user-rolebinding.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/security/configmap-aws-auth-yaml.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/security/configmap-aws-auth.txt",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/FluentD_Demo/create_ES.txt",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/FluentD_Demo/hello-k8s-forlog.yml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/ingress_demo_2/nginx-deployment.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/ingress_demo_2/webserver-ingress.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/ingress_demo_2/frontend-service.yaml",
+    "size": 0.0
+  },
+  {
+    "path": "/home/akilan/Downloads/creds.docx",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Cover Letter - Wind mill.docx",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Job Description Devops.docx",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/garage.sql",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course.zip",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/bootcamp-weeks-all.ics",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/04_reading-2-6-introduction-to-amazon-vpc_how_it_works.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/04_reading-2-6-introduction-to-amazon-vpc_what-is-amazon-vpc.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/02_reading-2-5-networking-on-aws_network-1-introduction.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/15_reading-2-4-serverless-and-aws-lambda_lambda-functions.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/05_reading-2-2-introduction-to-amazon-elastic-compute-cloud_AMIs.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/01_monitoring-on-aws/03_reading-4-1-monitoring-on-aws_instructions.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/01_monitoring-on-aws/05_reading-4-2-introduction-to-amazon-cloudwatch_GettingStarted.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/01_monitoring-on-aws/05_reading-4-2-introduction-to-amazon-cloudwatch_instructions.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/01_monitoring-on-aws/05_reading-4-2-introduction-to-amazon-cloudwatch_viewing_metrics_with_cloudwatch.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/02_optimization/04_reading-4-4-route-traffic-with-amazon-elastic-load-balancing_how-aws-waf-works.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/02_optimization/06_reading-4-5-amazon-ec2-auto-scaling_asg-capacity-limits.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/02_optimization/02_reading-4-3-optimizing-solutions-on-aws_high-availability-and-scalability-on-aws.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/02_optimization/02_reading-4-3-optimizing-solutions-on-aws_instructions.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/02_getting-started-with-aws-cloud/04_reading-1-3-aws-global-infrastructure_global-infrastructure.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/02_getting-started-with-aws-cloud/02_reading-1-2-what-is-aws_types-of-cloud-computing.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/02_getting-started-with-aws-cloud/02_reading-1-2-what-is-aws_instructions.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/04_aws-identity-and-access-management/02_readings-1-7-introduction-to-aws-identity-and-access-management_instructions.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/04_aws-identity-and-access-management/02_readings-1-7-introduction-to-aws-identity-and-access-management_access.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/03_security-in-the-aws-cloud/04_reading-1-6-protect-the-aws-root-user_instructions.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/02_databases-on-aws/07_reading-3-8-introduction-to-amazon-dynamodb_EncryptionAtRest.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/02_databases-on-aws/04_reading-3-6-amazon-relational-database-service_USER_VPC.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/02_databases-on-aws/07_reading-3-8-introduction-to-amazon-dynamodb_Introduction.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/01_storage-on-aws/09_reading-3-4-choose-the-right-storage-service_instructions.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/01_storage-on-aws/05_reading-3-2-amazon-ec2-instance-storage-and-amazon-elastic-block-store_AmazonEBS.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/01_storage-on-aws/05_reading-3-2-amazon-ec2-instance-storage-and-amazon-elastic-block-store_instructions.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/01_storage-on-aws/09_reading-3-4-choose-the-right-storage-service_Storage.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/01_testing-and-automation/07_exercise-3-automate-tests_exercise-3.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/01_testing-and-automation/03_exercise-2-run-tests_exercise-2.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/02_building-pipelines/06_week-2-reading-resources_troubleshooting-deployments-lambda.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/02_building-pipelines/06_week-2-reading-resources_codedeploy-agent-operations-install.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/02_building-pipelines/06_week-2-reading-resources_test-reporting.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/02_building-pipelines/06_week-2-reading-resources_instructions.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/02_building-pipelines/06_week-2-reading-resources_deployments.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/01_week-1/04_build-and-source-branching-practices/03_week-1-reading-resources_working-with-build-projects.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/01_week-1/04_build-and-source-branching-practices/03_week-1-reading-resources_welcome.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/02_week-2/03_hands-on-inside-the-students-account/02_exercise-2-troubleshoot-production-issues-with-the-help-of-aws-run-command_exercise-2.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/01_week-1/04_hands-on-inside-the-students-account/02_exercise-1-monitoring-pipeline-changes_exercise-1.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/01_week-1/03_how-to-monitor-different-areas/05_preventive-and-corrective-actions-driven-by-your-ability-to-monitor_instructions.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/01_week-1/03_how-to-monitor-different-areas/02_the-importance-of-monitoring-on-ci-cd-and-aws-services-used-towards-it_what-is-Amazon-Managed-Service-Grafana.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/02_week-2/01_infrastructure-as-code/07_optional-exercise-3-building-a-pipeline-with-cloudformation_exercise-3.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/02_week-2/01_infrastructure-as-code/03_abstracting-iac-on-aws_infrastructure-as-code.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/02_week-2/01_infrastructure-as-code/03_abstracting-iac-on-aws_instructions.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/01_welcome-to-the-course/02_recap-of-previous-course_instructions.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/04_troubleshooting-and-additional-information/01_deploying-updates-to-lambda-with-sam-and-codedeploy_tutorial-lambda-sam.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/04_troubleshooting-and-additional-information/01_deploying-updates-to-lambda-with-sam-and-codedeploy_instructions.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/03_introduction-to-codedeploy/06_optional-exercise-1-preparing-to-use-codedeploy_exercise-1.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/03_introduction-to-codedeploy/09_optional-exercise-2-deploying-updates-to-virtual-machines_exercise-2.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/03_introduction-to-codedeploy/03_appspec-file_instructions.html",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/resources_eks_course/FluentD_Demo/fluentd.yml",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/crc-linux-amd64/crc-linux-2.24.1-amd64/LICENSE",
+    "size": 0.01
+  },
+  {
+    "path": "/home/akilan/Downloads/others/FlaskApp.zip",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/akit-ops.jpg",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/07_reading-2-25-amazon-ec2-instance-lifecycle_ec2-instance-lifecycle.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/07_reading-2-25-amazon-ec2-instance-lifecycle_default-vpc.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/12_reading-2-3-container-services-on-aws_ECS_instances.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/01_monitoring-on-aws/05_reading-4-2-introduction-to-amazon-cloudwatch_WhatIsCloudWatchLogs.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/02_optimization/06_reading-4-5-amazon-ec2-auto-scaling_create-asg-launch-template.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/02_getting-started-with-aws-cloud/04_reading-1-3-aws-global-infrastructure_rande.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/04_aws-identity-and-access-management/02_readings-1-7-introduction-to-aws-identity-and-access-management_id.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/04_aws-identity-and-access-management/02_readings-1-7-introduction-to-aws-identity-and-access-management_introduction.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/03_security-in-the-aws-cloud/04_reading-1-6-protect-the-aws-root-user_id_credentials_mfa_enable_virtual.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/03_security-in-the-aws-cloud/04_reading-1-6-protect-the-aws-root-user_id_credentials_mfa_enable_u2f.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/02_databases-on-aws/04_reading-3-6-amazon-relational-database-service_UsingWithRDS.IAMDBAuth.IAMPolicy.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/02_building-pipelines/06_week-2-reading-resources_error-codes.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/02_building-pipelines/06_week-2-reading-resources_troubleshooting-general.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/02_building-pipelines/03_exercise-4-build-the-pipeline_exercise-4.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/02_building-pipelines/06_week-2-reading-resources_deployments-view-logs.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/01_week-1/03_coding-practices/03_exercise-1-source-control_exercise-1.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/02_week-2/02_the-operations-hub-and-aws-features-for-operations/02_aws-systems-manager_systems-manager-best-practices.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/01_week-1/03_how-to-monitor-different-areas/02_the-importance-of-monitoring-on-ci-cd-and-aws-services-used-towards-it_WhatIsCloudWatchLogs.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/03_introduction-to-codedeploy/03_appspec-file_reference-appspec-file-example.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/03_introduction-to-codedeploy/03_appspec-file_reference-appspec-file.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/03_introduction-to-codedeploy/03_appspec-file_reference-appspec-file-structure.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/03_introduction-to-codedeploy/03_appspec-file_reference-appspec-file-structure-permissions.html",
+    "size": 0.02
+  },
+  {
+    "path": "/home/akilan/Downloads/JagadeshAchanta_DevOpsEngineer.docx",
+    "size": 0.03
+  },
+  {
+    "path": "/home/akilan/Downloads/others/autoapp.png",
+    "size": 0.03
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/05_reading-2-2-introduction-to-amazon-elastic-compute-cloud_what-is-image-builder.html",
+    "size": 0.03
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/05_reading-2-2-introduction-to-amazon-elastic-compute-cloud_creating-an-ami-ebs.html",
+    "size": 0.03
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/02_getting-started-with-aws-cloud/08_exercise-1-create-an-aws-account_lab-1-account.html",
+    "size": 0.03
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/04_aws-identity-and-access-management/06_exercise-2-following-iam-best-practices_lab-2-iam.html",
+    "size": 0.03
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/03_security-in-the-aws-cloud/04_reading-1-6-protect-the-aws-root-user_id_credentials_mfa_enable_physical.html",
+    "size": 0.03
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/01_storage-on-aws/09_reading-3-4-choose-the-right-storage-service_how-it-works.html",
+    "size": 0.03
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/01_storage-on-aws/05_reading-3-2-amazon-ec2-instance-storage-and-amazon-elastic-block-store_ebs-volumes-multi.html",
+    "size": 0.03
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/01_week-1/03_how-to-monitor-different-areas/05_preventive-and-corrective-actions-driven-by-your-ability-to-monitor_cloudtrail-logs.html",
+    "size": 0.03
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/02_week-2/01_infrastructure-as-code/03_abstracting-iac-on-aws_home.html",
+    "size": 0.03
+  },
+  {
+    "path": "/home/akilan/Downloads/az-scale-k8s.png",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/akit-ops.drawio (1).png",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/akit-ops.drawio.png",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/04_reading-2-6-introduction-to-amazon-vpc_VPC_Route_Tables.html",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/07_reading-2-7-amazon-vpc-routing-and-security_WorkWithRouteTables.html",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/07_reading-2-7-amazon-vpc-routing-and-security_route-table-options.html",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/07_reading-2-7-amazon-vpc-routing-and-security_VPC_Route_Tables.html",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/09_exercise-3-launch-the-employee-directory-application-on-amazon-ec2_lab-3-compute.html",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/03_reading-2-1-compute-as-a-service-on-aws_compute-services.html",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/03_reading-2-1-compute-as-a-service-on-aws_instructions.html",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/02_optimization/04_reading-4-4-route-traffic-with-amazon-elastic-load-balancing_listener-authenticate-users.html",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/02_optimization/06_reading-4-5-amazon-ec2-auto-scaling_as-scaling-target-tracking.html",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/04_aws-identity-and-access-management/04_reading-1-8-role-based-access-in-aws_best-practices.html",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/02_databases-on-aws/10_exercise-6-amazon-dynamodb_lab-6-databases.html",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/02_week-2/02_building-pipelines/06_week-2-reading-resources_troubleshooting-deployments.html",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/01_week-1/04_build-and-source-branching-practices/03_week-1-reading-resources_auth-and-access-control.html",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/01_week-1/03_how-to-monitor-different-areas/02_the-importance-of-monitoring-on-ci-cd-and-aws-services-used-towards-it_AlarmThatSendsEmail.html",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/01_week-1/02_introduction-to-deployment/03_deployment-strategies-for-serverless_welcome.html",
+    "size": 0.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/07_reading-2-7-amazon-vpc-routing-and-security_VPC_SecurityGroups.html",
+    "size": 0.05
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/09_exercise-4-creating-a-vpc-and-relaunching-the-employee-directory-application-on_lab-4-networking.html",
+    "size": 0.05
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/02_databases-on-aws/04_reading-3-6-amazon-relational-database-service_USER_WorkingWithAutomatedBackups.html",
+    "size": 0.05
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/01_storage-on-aws/11_exercise-5-create-an-amazon-s3-bucket_lab-5-storage.html",
+    "size": 0.05
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/02_optimization/06_reading-4-5-amazon-ec2-auto-scaling_as-scaling-simple-step.html",
+    "size": 0.06
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/02_optimization/08_exercise-7-configure-high-availability-for-your-application_lab-7-elb.html",
+    "size": 0.06
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/01_storage-on-aws/05_reading-3-2-amazon-ec2-instance-storage-and-amazon-elastic-block-store_InstanceStorage.html",
+    "size": 0.06
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/04_reading-2-6-introduction-to-amazon-vpc_VPC_Scenario2.html",
+    "size": 0.07
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/07_reading-2-7-amazon-vpc-routing-and-security_vpc-network-acls.html",
+    "size": 0.07
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/01_monitoring-on-aws/05_reading-4-2-introduction-to-amazon-cloudwatch_aws-services-cloudwatch-metrics.html",
+    "size": 0.07
+  },
+  {
+    "path": "/home/akilan/Downloads/k8s-arch.png",
+    "size": 0.08
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/02_getting-started-with-aws-cloud/06_reading-1-4-interacting-with-aws_instructions.html",
+    "size": 0.08
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-code-build-test/01_week-1/04_build-and-source-branching-practices/03_week-1-reading-resources_build-spec-ref.html",
+    "size": 0.09
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/02_optimization/04_reading-4-4-route-traffic-with-amazon-elastic-load-balancing_instructions.html",
+    "size": 0.12
+  },
+  {
+    "path": "/home/akilan/Downloads/others/JD_Architect Go Lang Tech_Microservices.pdf",
+    "size": 0.13
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/02_optimization/06_reading-4-5-amazon-ec2-auto-scaling_instructions.html",
+    "size": 0.13
+  },
+  {
+    "path": "/home/akilan/Downloads/linkedin-api.png",
+    "size": 0.14
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Multi-Cloud-K8S.png",
+    "size": 0.15
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/02_getting-started-with-aws-cloud/04_reading-1-3-aws-global-infrastructure_instructions.html",
+    "size": 0.15
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/04_aws-identity-and-access-management/04_reading-1-8-role-based-access-in-aws_instructions.html",
+    "size": 0.15
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/03_security-in-the-aws-cloud/02_reading-1-5-security-and-the-aws-shared-responsibility-model_instructions.html",
+    "size": 0.15
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/15_reading-2-4-serverless-and-aws-lambda_instructions.html",
+    "size": 0.16
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/02_databases-on-aws/02_reading-3-5-explore-databases-on-aws_instructions.html",
+    "size": 0.16
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Akilan-DevOps-Kubernetes-CV.pdf",
+    "size": 0.17
+  },
+  {
+    "path": "/home/akilan/Downloads/Interview Transcript.pdf",
+    "size": 0.2
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/02_reading-2-5-networking-on-aws_instructions.html",
+    "size": 0.2
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Audio-5592298.mp3",
+    "size": 0.21
+  },
+  {
+    "path": "/home/akilan/Downloads/others/EKS-multi-region .png",
+    "size": 0.23
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/01_storage-on-aws/03_reading-3-1-storage-types-on-aws_instructions.html",
+    "size": 0.23
+  },
+  {
+    "path": "/home/akilan/Downloads/az-cmds.png",
+    "size": 0.25
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Aga Naga - PS2 - Tamil ! Bgm.mp3",
+    "size": 0.25
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Sahana Saral ! Bgm ! Theme.mp3",
+    "size": 0.29
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/02_databases-on-aws/04_reading-3-6-amazon-relational-database-service_instructions.html",
+    "size": 0.29
+  },
+  {
+    "path": "/home/akilan/Downloads/others/aws-basics-code-files.zip",
+    "size": 0.34
+  },
+  {
+    "path": "/home/akilan/Downloads/others/adminer-4.8.1-mysql.php",
+    "size": 0.35
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Cloud Infrastructure Developer - JD.pdf",
+    "size": 0.38
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/12_reading-2-3-container-services-on-aws_instructions.html",
+    "size": 0.43
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/01_week-1/04_aws-identity-and-access-management/02_readings-1-7-introduction-to-aws-identity-and-access-management_reference_aws-services-that-work-with-iam.html",
+    "size": 0.48
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/05_reading-2-2-introduction-to-amazon-elastic-compute-cloud_instructions.html",
+    "size": 0.53
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/03_week-3/01_storage-on-aws/07_reading-3-3-object-storage-with-amazon-s3_instructions.html",
+    "size": 0.57
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/07_reading-2-25-amazon-ec2-instance-lifecycle_instructions.html",
+    "size": 0.62
+  },
+  {
+    "path": "/home/akilan/Downloads/others/2E40FB50B6A11A67E4DC46438C689EAF_video_dashinit.mp4",
+    "size": 0.68
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-operate-monitor/01_week-1/02_where-we-are-at/01_recap-from-the-previous-courses_instructions.html",
+    "size": 0.72
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/07_reading-2-7-amazon-vpc-routing-and-security_instructions.html",
+    "size": 0.74
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Dopamine_Detox_Book.pdf",
+    "size": 0.78
+  },
+  {
+    "path": "/home/akilan/Downloads/others/client-go-2023-04-30-223210_JCAGfpE6.mp4",
+    "size": 0.85
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/02_aws-networking/04_reading-2-6-introduction-to-amazon-vpc_instructions.html",
+    "size": 0.88
+  },
+  {
+    "path": "/home/akilan/Downloads/others/how_duckduckgo_hire.pdf",
+    "size": 1.14
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Pablo-Sandhanam-(Background-Score)-MassTamilan.dev.mp3",
+    "size": 1.5
+  },
+  {
+    "path": "/home/akilan/Downloads/others/C746DBF7BB47AC0BF9D8E41556E666AB_video_dashinit.mp4",
+    "size": 1.53
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/devops-aws-release-deploy/02_week-2/01_infrastructure-as-code/03_abstracting-iac-on-aws_aws-cdk_aws-s3.Bucket.html",
+    "size": 1.56
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Rolex-Theme-(Background-Score)-MassTamilan.dev.mp3",
+    "size": 1.68
+  },
+  {
+    "path": "/home/akilan/Downloads/others/The Alter Ego Effect ( PDFDrive ).pdf",
+    "size": 1.7
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/02_week-2/01_aws-compute/07_reading-2-25-amazon-ec2-instance-lifecycle_AWS-Reliability-Pillar.pdf",
+    "size": 2.21
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization/aws-cloud-technical-essentials/04_week-4/02_optimization/02_reading-4-3-optimizing-solutions-on-aws_AWS-Reliability-Pillar.pdf",
+    "size": 2.21
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Improve Your English_ English in Everyday Life ( PDFDrive ).pdf",
+    "size": 3.05
+  },
+  {
+    "path": "/home/akilan/Downloads/others/sigmamindsetss_45540617_160095523652618_8203808401068202348_n.mp4",
+    "size": 3.16
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Sandhanam-Theme-(Background-Score)-MassTamilan.dev.mp3",
+    "size": 3.49
+  },
+  {
+    "path": "/home/akilan/Downloads/VNC-Viewer-7.6.0-Linux-x64.deb",
+    "size": 3.57
+  },
+  {
+    "path": "/home/akilan/Downloads/others/unbeatable_mentality_49199091_626006635710021_4789274123212363830_n.mp4",
+    "size": 3.87
+  },
+  {
+    "path": "/home/akilan/Downloads/DevOps-Certification-Training-Course.pdf",
+    "size": 3.92
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Improve Your English_ English in the Workplace (Book)_ Hear and see how English is actually spoken--from real-life speakers ( PDFDrive ).pdf",
+    "size": 3.96
+  },
+  {
+    "path": "/home/akilan/Downloads/others/173134495_753605309752360_761729183031733033_n.mp4",
+    "size": 4.4
+  },
+  {
+    "path": "/home/akilan/Downloads/others/wadey_gravy_120639483_967516257718336_8834305082704278848_n.mp4",
+    "size": 4.44
+  },
+  {
+    "path": "/home/akilan/Downloads/others/49612978_245773377964421_1956061972364010787_n.mp4",
+    "size": 4.56
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Lokiverse-(Background-Score)-MassTamilan.dev.mp3",
+    "size": 5.04
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Aga-Naga-MassTamilan.dev.mp3",
+    "size": 6.71
+  },
+  {
+    "path": "/home/akilan/Downloads/others/EKS_K8_Course_slides_updatedNov2022.pdf",
+    "size": 7.26
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/DevOps on AWS Specialization.rar",
+    "size": 8.82
+  },
+  {
+    "path": "/home/akilan/Downloads/others/AWS-Architecture-Icons-Deck_For-Light-BG_04282023.8bb05f733ab206e6d3a46411d8669c7d1b89942c.zip",
+    "size": 10.4
+  },
+  {
+    "path": "/home/akilan/Downloads/others/ramcharan_.officiall_10000000_740206817843626_6681995966292849326_n.mp4",
+    "size": 11.44
+  },
+  {
+    "path": "/home/akilan/Downloads/videoplayback.mp4",
+    "size": 11.51
+  },
+  {
+    "path": "/home/akilan/Downloads/others/babu_karthindia_official_10000000_942801313537971_6881847361887340984_n.mp4",
+    "size": 12.19
+  },
+  {
+    "path": "/home/akilan/Downloads/others/terraform_1.4.5_linux_amd64.zip",
+    "size": 19.81
+  },
+  {
+    "path": "/home/akilan/Downloads/others/9 Min Exercise For Kids - Home Workout.mp4",
+    "size": 21.52
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Aga Naga - Lyrical - PS2 Tamil - @ARRahman - Mani Ratnam - Karthi, Trisha - Subaskaran -Shakthisree.mp4",
+    "size": 22.06
+  },
+  {
+    "path": "/home/akilan/Downloads/Azure-Kubernetes-Service-course-resource-3.pdf",
+    "size": 22.27
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Kids Workout_ 30 Day Challenge Weight Loss.mp4",
+    "size": 22.87
+  },
+  {
+    "path": "/home/akilan/Downloads/others/wordpress-6.1.1.zip",
+    "size": 23.24
+  },
+  {
+    "path": "/home/akilan/Downloads/crc-linux-amd64.tar.xz",
+    "size": 28.23
+  },
+  {
+    "path": "/home/akilan/Downloads/others/AWS Fundamentals Specialization.rar",
+    "size": 30.66
+  },
+  {
+    "path": "/home/akilan/Downloads/Valli Valli Ena 4k - \u0b87\u0b9a\u0bc8\u0b9e\u0bbe\u0ba9\u0bbf \u0b87\u0b9a\u0bc8\u0baf\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 S.\u0b9c\u0bbe\u0ba9\u0b95\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bbe\u0b9f\u0bbf\u0baf \u0bb5\u0bb3\u0bcd\u0bb3\u0bbf \u0bb5\u0bb3\u0bcd\u0bb3\u0bbf \u0b8e\u0ba9 \u0bb5\u0ba8\u0bcd\u0ba4\u0bbe\u0bb3\u0bcd \u0baa\u0bbe\u0b9f\u0bb2\u0bcd.mp4",
+    "size": 37.42
+  },
+  {
+    "path": "/home/akilan/Downloads/Viduthalai Part 1 - Kaattumalli Video - Vetri Maaran - Ilaiyaraaja - Soori - Vijay Sethupathi.mp4",
+    "size": 37.61
+  },
+  {
+    "path": "/home/akilan/Downloads/Naadodi Paattu Paada --\u0ba8\u0bbe\u0b9f\u0bcb\u0b9f\u0bbf \u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bbe\u0b9f --  SPB --Love  H D Song.mp4",
+    "size": 39.12
+  },
+  {
+    "path": "/home/akilan/Downloads/\u0b92\u0bb0\u0bc1 \u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bc7 \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bbf Oru Paatale Solli - Video Song - Deiva Vaakku - Karthik - Revathi - Ilaiyaraaja.mp4",
+    "size": 39.66
+  },
+  {
+    "path": "/home/akilan/Downloads/others/\u0b92\u0bb0\u0bc1 \u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bc7 \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bbf Oru Paatale Solli - Video Song - Deiva Vaakku - Karthik - Revathi - Ilaiyaraaja.mp4",
+    "size": 39.66
+  },
+  {
+    "path": "/home/akilan/Downloads/Un Uthattora Sevappe ~ Panchalankurichi.mp4",
+    "size": 42.23
+  },
+  {
+    "path": "/home/akilan/Downloads/others/AWS Pricing.mp4",
+    "size": 44.4
+  },
+  {
+    "path": "/home/akilan/Downloads/others/8 SUPER FUN BALANCE AND COORDINATION EXERCISES FOR KIDS.mp4",
+    "size": 46.87
+  },
+  {
+    "path": "/home/akilan/Downloads/\u0bb5\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0baa\u0bcd\u0baa\u0bbe \u0bb5\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0baa\u0bcd\u0baa\u0bbe \u0bb5\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9c\u0bc6\u0ba9\u0bb2\u0bbf\u0bb2 \u0ba8\u0bbf\u0ba9\u0bcd\u0ba9\u0bbe\u0bb2\u0baa\u0bcd\u0baa\u0bbe(Vanthalappa Vanthalappa)Mano, K.S.Chithra.mp4",
+    "size": 58.84
+  },
+  {
+    "path": "/home/akilan/Downloads/openshift-client-linux.tar.gz",
+    "size": 59.44
+  },
+  {
+    "path": "/home/akilan/Downloads/\u0b8e\u0ba9\u0bcd\u0ba9\u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9a\u0bca\u0bb2\u0bcd\u0bb5\u0ba4\u0bae\u0bcd\u0bae\u0bbe- Rajakumaran-Super Hit Prabhu Meena Nadhiya Tamil Songs -Hornpipe Record Label.mp4",
+    "size": 72.0
+  },
+  {
+    "path": "/home/akilan/Downloads/slack-desktop-4.33.90-amd64.deb",
+    "size": 72.39
+  },
+  {
+    "path": "/home/akilan/Downloads/crc-linux-amd64/crc-linux-2.24.1-amd64/crc",
+    "size": 84.94
+  },
+  {
+    "path": "/home/akilan/Downloads/others/zoom_amd64.deb",
+    "size": 159.1
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Introduction to Front End Development.mp4",
+    "size": 375.8
+  },
+  {
+    "path": "/home/akilan/Downloads/others/HTML5 And CSS3 in Depth Full Course.mp4",
+    "size": 590.35
+  },
+  {
+    "path": "/home/akilan/Downloads/others/React JS Tutorial - Basic to Advance (2023).mp4",
+    "size": 669.85
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Telegram Desktop/Ayothi.2023.720p.ZEE5.WEB-DL.AAC2.0.H.264-Telly.mkv",
+    "size": 988.77
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Unconfirmed 297044.crdownload",
+    "size": 1270.55
+  },
+  {
+    "path": "/home/akilan/Downloads/others/_Varisu_2023_Tamil_HQ_HDRip_720p_x264_DD5_1_192Kbps_AAC_1_4GB_ESub.mkv",
+    "size": 1585.75
+  },
+  {
+    "path": "/home/akilan/Downloads/others/Telegram Desktop/_Varisu_2023_Tamil_HQ_HDRip_720p_x264_DD5_1_192Kbps_AAC_1_4GB_ESub.mkv",
+    "size": 1585.87
+  },
+  {
+    "path": "/home/akilan/Downloads/others/devops-on-aws/AWS DevOps Tutorial for Beginners _ DevOps on AWS Tutorial (Full Course).mp4",
+    "size": 2032.61
+  },
+  {
+    "path": "/home/akilan/Downloads/others/AWS Tutorial For Beginners (Full Course).mp4",
+    "size": 2976.05
+  },
+  {
+    "path": "/home/akilan/Downloads/others/ubuntu-22.04.2-desktop-amd64.iso",
+    "size": 4699.31
+  }
+]
