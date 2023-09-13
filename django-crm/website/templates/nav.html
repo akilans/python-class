@@ -3,7 +3,7 @@
   data-bs-theme="dark"
 >
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
+    <a class="navbar-brand" href="{% url 'home' %}">Django CRM</a>
     <button
       class="navbar-toggler"
       type="button"
@@ -17,12 +17,15 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
+        {% if user.is_authenticated %}
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link" href="{% url 'logout' %}">Logout</a>
         </li>
+        {% else %}
         <li class="nav-item">
-          <a class="nav-link" href="#">Features</a>
+          <a class="nav-link" href="{% url 'home' %}">Login</a>
         </li>
+        {% endif %}
       </ul>
     </div>
   </div>
