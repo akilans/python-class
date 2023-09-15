@@ -2,10 +2,13 @@ from django.shortcuts import render, redirect
 from django.contrib.auth import login, logout, authenticate
 from django.contrib import messages
 from .forms import UserRegisterForm
+from .models import Employee
 
 # Create your views here.
 # Home/Login page
 def home(request):
+
+    employees = Employee.objects.all()
 
     if request.method == "POST":
         username = request.POST["username"]
@@ -20,7 +23,7 @@ def home(request):
             messages.error(request,"Authentication failed")
             return redirect('home')
     else:
-        return render(request,"home.html",{})
+        return render(request,"home.html",{'employees': employees})
 
 # logout page
 def logout_user(request):
@@ -52,3 +55,29 @@ def register_user(request):
     else:
         form = UserRegisterForm()
         return render(request,"register.html",{'form': form})
+    
+
+def add_employee():
+    pass
+
+def delete_employee(request,id):
+    if request.user.is_authenticated:
+        employee_to_delete = Employee.objects.get(id=id)
+        employee_to_delete.delete()
+        messages.error(request,"Deleted successfully..")
+        return redirect('home')
+    else:
+        messages.error(request,"Login to see this page..")
+        return redirect('home')
+
+def update_employee():
+    pass
+
+def get_employee(request,id):
+    if request.user.is_authenticated:
+        employee = Employee.objects.get(id=id)
+        return render(request,"employee.html",{'employee': employee})
+    else:
+        messages.error(request,"Login to see this page..")
+        return redirect('home')
+

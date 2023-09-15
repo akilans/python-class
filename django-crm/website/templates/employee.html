@@ -1,0 +1,11 @@
+{% extends 'base.html' %} {% block content %}
+<div class="container col-md-6 offset-md-3">
+  <br />
+  <h1>Employee</h1>
+
+  {{ employee }}
+  <br />
+  <a href={% url 'home' %} class="btn btn-primary">Back</a>
+  <a href={% url 'delete_employee' employee.id %} class="btn btn-danger">Delete</a>
+</div>
+{% endblock %}

@@ -1,6 +1,34 @@
 {% extends 'base.html' %} {% block content %} {% if user.is_authenticated %}
 <div class="container">
   <h1>Hello {{ user }}, Welcome to Django</h1>
+  <a href={% url 'add_employee' %} class="btn btn-primary">Add employee</a>
+  {% if employees%}
+
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">First Name</th>
+        <th scope="col">Last Name</th>
+        <th scope="col">Email</th>
+        <th scope="col">Role</th>
+        <th scope="col">Location</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for employee in employees %}
+      <tr>
+        <th scope="row"><a href={% url 'get_employee' employee.id %}> {{ employee.id }}</a></th>
+        <td>{{ employee.first_name }}</td>
+        <td>{{ employee.last_name }}</td>
+        <td>{{ employee.email }}</td>
+        <td>{{ employee.role }}</td>
+        <td>{{ employee.location }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% endif %}
 </div>
 {% else %}
 <div class="container col-md-6 offset-md-3">
