@@ -3,6 +3,7 @@ from django.contrib.auth import login, logout, authenticate
 from django.contrib import messages
 from .forms import UserRegisterForm
 from .models import Employee
+from .forms import AddEmployeeForm
 
 # Create your views here.
 # Home/Login page
@@ -56,9 +57,21 @@ def register_user(request):
         form = UserRegisterForm()
         return render(request,"register.html",{'form': form})
     
-
-def add_employee():
-    pass
+# Add employee
+def add_employee(request):
+    form = AddEmployeeForm(request.POST or None)
+    if request.user.is_authenticated:
+        if request.method == "POST":
+            print(request.POST)
+            if form.is_valid():
+                form.save()
+                messages.error(request,"Employee added successfully..")
+                return redirect('home')
+        else:
+            return render(request,"add_employee.html",{'form': form})
+    else:
+        messages.error(request,"Login to see this page..")
+        return redirect('home')
 
 def delete_employee(request,id):
     if request.user.is_authenticated:
@@ -70,8 +83,22 @@ def delete_employee(request,id):
         messages.error(request,"Login to see this page..")
         return redirect('home')
 
-def update_employee():
-    pass
+def update_employee(request,id):
+    print("Coming here...........")
+    if request.user.is_authenticated:
+        employee = Employee.objects.get(id=id)
+        print(employee) 
+        form = AddEmployeeForm(request.POST or None, instance=employee)
+        if form.is_valid():
+            form.save()
+            messages.error(request,"Employee update successfully..")
+            return redirect('home')
+        else:
+            print("***************************")
+            return render(request, 'update_employee.html', {'form':form})
+    else:
+        messages.error(request,"Login to see this page..")
+        return redirect('home')
 
 def get_employee(request,id):
     if request.user.is_authenticated:

@@ -6,6 +6,7 @@
   {{ employee }}
   <br />
   <a href={% url 'home' %} class="btn btn-primary">Back</a>
+  <a href={% url 'update_employee' employee.id %} class="btn btn-secondary">Update</a>
   <a href={% url 'delete_employee' employee.id %} class="btn btn-danger">Delete</a>
 </div>
 {% endblock %}

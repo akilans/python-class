@@ -1,6 +1,7 @@
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.models import User
 from django import forms
+from .models import Employee
 
 class UserRegisterForm(UserCreationForm):
     email = forms.EmailField(label="",widget=forms.EmailInput(attrs={'class':'form-control','placeholder':'Email address'}))
@@ -27,4 +28,15 @@ class UserRegisterForm(UserCreationForm):
             self.fields['password2'].widget.attrs['class'] = 'form-control'
             self.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'
             self.fields['password2'].label = ''
-            self.fields['password2'].help_text = '<span class="form-text text-muted"><small>Enter the same password as before, for verification.</small></span>'        
+            self.fields['password2'].help_text = '<span class="form-text text-muted"><small>Enter the same password as before, for verification.</small></span>'
+
+class AddEmployeeForm(forms.ModelForm):
+    first_name = forms.CharField(required=True,label="",widget=forms.TextInput(attrs={"class":"form-control","placeholder":"First Name"}))
+    last_name = forms.CharField(required=True,label="",widget=forms.TextInput(attrs={"class":"form-control","placeholder":"Last Name"}))
+    email = forms.EmailField(required=True,label="",widget=forms.EmailInput(attrs={"class":"form-control","placeholder":"Email"}))
+    role = forms.CharField(required=True,label="",widget=forms.TextInput(attrs={"class":"form-control","placeholder":"Role"}))
+    location = forms.CharField(required=True,label="",widget=forms.TextInput(attrs={"class":"form-control","placeholder":"Location"}))
+
+    class Meta:
+        model = Employee
+        exclude = []
