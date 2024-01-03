@@ -26,3 +26,8 @@ source ./.venv/bin/activate
 - Library is a collection of modules that serve a specific purpose or provide a set of related functionalities
 - Package is a way of organizing related modules into a directory structure
 - Package has "**init**.py" file to indicate that the directory should be treated as a package
+
+```bash
+pip install cowsay
+pip install pytest
+```

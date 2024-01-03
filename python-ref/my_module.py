@@ -2,13 +2,12 @@
 pip install cowsay
 '''
 import cowsay
-import requests
 
 def hello(name):
     cowsay.cow(f"Hello {name}")
 
 def goodbye(name):
-    print(f"Goodbye {name}")
+    return f"Goodbye {name}"
 
 def main():
     hello("Akilan")
