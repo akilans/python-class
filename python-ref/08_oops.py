@@ -32,10 +32,21 @@ class Person:
     def greet_class(cls,name):
         return f"Hello {name} {cls.default_greet}"
     
-    # operator overloading -> +,-,* etc
+    # operator overloading -> +,-,*,>,<,==, etc
     def __add__(self,other):
         return f"{self.name} & {other.name}"
 
+
+# child class - inheritence example
+class Friend(Person):
+    # constructor
+    def __init__(self, name,type):
+        super().__init__(name) # use parent constructor with getter and setter
+        self.type = type
+    # overwrite parent method
+    def __str__(self):
+        return f"{self.name} is my {self.type} friend"
+    
 # create object from class
 per1 = Person("Alex")
 
@@ -55,6 +66,15 @@ print(Person.greet_class("Akilan"))
 per2 = Person("Kumar")
 print(per1 + per2)
 
+
+friend1 = Friend("Annachi","School")
+friend2 = Friend("Karuna","Office")
+print(friend1)
+print(friend2)
+try:
+    friend3 = Friend("B","college")
+except ValueError:
+    print("Error happened")
 '''
 Output:
 Person name is Alex
@@ -62,4 +82,7 @@ Hello Alex, Welcome to oops...
 Error happened
 Hello Akilan Welome to Python oops
 Alex & Kumar
+Annachi is my School friend
+Karuna is my Office friend
+Error happened
 '''
