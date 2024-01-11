@@ -55,7 +55,7 @@ def main():
     #demo_global()
     '''
     pip install mypy
-    mypy 09_etc.py
+    mypy 09_etc.py --check-untyped-defs
     '''
     demo_typehint() 
 
